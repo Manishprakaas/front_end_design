@@ -1,0 +1,29 @@
+body{
+       
+    background-image: url('./num.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    background-attachment: fixed;
+   
+
+}
+        
+    
+    h1{
+        padding: 50px;
+       
+        font-size: xx-large;
+        font-style: oblique;
+    }
+    input{
+        padding-top: 20px;
+        padding-inline-start: 100px;
+    }
+    button{
+        background-color: blue;
+        color: black;
+        padding: 5px;
+        
+    }
+
